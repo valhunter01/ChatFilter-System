@@ -1,0 +1,6 @@
+name: ChatFilter
+version: '1.0'
+main: me.VAL.chatFilter.ChatFilter
+api-version: '1.21'
+author: [VALHUNTER]
+
